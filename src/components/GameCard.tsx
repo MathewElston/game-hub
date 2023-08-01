@@ -5,8 +5,6 @@ import {
   Heading,
   Image,
   HStack,
-  Box,
-  Center,
 } from "@chakra-ui/react";
 import PlatformIconList from "./PlatformIconList";
 import CriticScore from "./CriticScore";
